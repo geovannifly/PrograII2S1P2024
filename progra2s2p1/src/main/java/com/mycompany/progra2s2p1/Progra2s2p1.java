@@ -50,5 +50,7 @@ public class Progra2s2p1 {
         alumno1.imprimirDatos();
         alumno2.imprimirDatos();
         alumno3.imprimirDatos();
+        
+        
     }
 }
